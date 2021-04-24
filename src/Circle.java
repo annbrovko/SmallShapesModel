@@ -1,7 +1,6 @@
 import java.lang.Math;
 
 class Circle extends Shape {
-  float center;
   float radius;
   Point startPoint;
   Point pointN;

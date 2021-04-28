@@ -1,4 +1,4 @@
-class Distance extends Shape{
+class Distance {
 
   float distInPoints;
   Point startPoint;
